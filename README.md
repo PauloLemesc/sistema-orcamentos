@@ -1,2 +1,22 @@
-# sistema-orcamentos
-MVP que permite cadastrar clientes e projetos, receber documentos enviados por clientes, gerar orçamentos automaticamente com exportação em PDF, e disponibilizar tudo em uma interface responsiva acessível por celular.
+"# Sistema de Or�amentos" 
+# Sistema de Orçamentos
+
+Este projeto tem como objetivo criar um sistema completo de orçamentos, incluindo:
+
+- Cadastro de clientes
+- Cadastro de serviços
+- Geração de PDFs
+- Controle de projetos e propostas
+- Integração entre backend (API) e frontend (interface)
+
+## Estrutura do Projeto
+
+
+## Tecnologias previstas
+- **Frontend:** React
+- **Backend:** Node.js + Express
+- **Banco de Dados:** (a definir — pode ser SQLite, PostgreSQL, MongoDB)
+- **Documentação:** Markdown, PDFs
+
+## Como rodar o projeto
+(Será preenchido conforme avança o desenvolvimento)
